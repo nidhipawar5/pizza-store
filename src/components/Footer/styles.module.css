@@ -1,0 +1,28 @@
+footer {
+  background-color: rgb(19, 25, 33);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+  z-index: 1;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+}
+footer h1 {
+  font-family: cursive;
+}
+
+footer a {
+  color: white !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 40px;
+}
